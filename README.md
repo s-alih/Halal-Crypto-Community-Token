@@ -47,6 +47,8 @@ HCC token is backed by Islamic coin in Haqq network.
 People can mint HCC token by locking Islamic Coin
 You can unlock your **Islamic Coin** by burning **HCC** token using our contract
 
+Contract is reside in contracts folder named HalalToken.sol
+
 ## Functions
 
 Describing all functions in the contract
